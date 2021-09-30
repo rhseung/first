@@ -1,0 +1,78 @@
+> CALC
+STATUS
+======
+
+Introduce:
+• Date      => 2019-10-05
+• Developer => Rhseung
+• Language  => C
+• IDE       => VS 2019
+• Editor    => VS Code
+• List      => Google Keep
+
+Table of Contents:
+> 1 = Goal
+> 2 = Now Finish
+> 3 = Now Todo
+> 4 = Todo in Detail
+> 5 = Do it Later
+
+
+01 | Goal:
+=====================
+숙제 할 때 귀찮은 계산을 도맡아 해주는 공학계산기를 만드는 것이 목표이다. 
+또한 혼합 계산이나 삼각함수로 된 복잡한 수식도 계산할 수 있어야 한다.
+=====================
+
+
+02 | Now Finish:
+=====================
+>> "3,4,5" => {3,4,5} 으로 자료형 변환해서 저장하는데 성공
+>> "numjml.h" 이라고 작명한 헤더파일 제작 완성
+>> 불완전한 곱셈 연속계산 완성 (when '*' index is 0)
+>> make multiple calculaion function.
+=====================
+
+
+03 | Now Todo:
+=====================
+[1] distinguish between symbols & non-symbols among symbols.
+[2] calculaion of minus symbol & minus symbol.
+[3] calculaion sequential algorithm.
+[4] perfect mult range calculaion. (when '*' index isn't 0)
+[5] make add, sub, devide functions. ('/' => '*')
+[6] mixed formula calculaion. ex) ((4*5+1)*3/(18/3) = 14)
+=====================
+
+
+04 | Todo in Detail:
+=====================
+[1] dadasdadasdas
+dasdasdasdasdasd
+
+[2] dadasdasdada
+adasdasdasdasdasdas
+
+[3] qsdasdasdadas
+adasdasdasdasdasdas
+
+[4] dadasdasdasda
+adasdasdasdasdasdas
+
+[5] adasdasdasdasd
+adasdasdasdasdasdas
+
+[6] dasdasdasdasdasd
+adasdasdasdasdasdas
+=====================
+
+
+05 | Do it Later:
+=====================
+>> Triangular function support
+>> Change Array Memory to Dynamic Allocation
+=====================
+
+> CALC
+STATUS
+======
